@@ -55,5 +55,5 @@ function generateMultiplepassword (numberOfpasswordword,minLength,numberOfNumber
     
 }
 generateMultiplepassword(5,10,2,5)
-console.log(generateMultiplepassword(5,10,2,5));
+
 
